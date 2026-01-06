@@ -3,6 +3,7 @@
 Model Dosyası:
 Proje 
 Akciğer röntgen görüntülerinden zatürre (pneumonia) tespiti için derin öğrenme tabanlı ikili sınıflandırma modelleri geliştirilmesini kapsayan proje, bebekler ve yaşlılar gibi risk gruplarında erken teşhis için radyolog iş yükünü azaltmayı hedefler.
+
 ​
 Veri Setleri
 Ana veri seti Kaggle Chest X-Ray Pneumonia'dır: 1.583 normal ve 4.273 pneumonia görüntüsü içeren pediatrik veriler. Ek olarak CheXpert (20.241 görüntü) ve NIH (61.792 görüntü) external setlerle genelleme testi yapılmıştır. Veri dengesizliği için ağırlıklı örnekleme ve augmentasyon teknikleri uygulanmıştır.
