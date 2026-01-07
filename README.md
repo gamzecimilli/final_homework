@@ -1,6 +1,8 @@
 # final_homework
 
 Model Dosyası: https://drive.google.com/drive/folders/1dzHnXbyNvGxYAaiJP2kUNAje36henk6J?usp=sharing
+
+
 Proje 
 Akciğer röntgen görüntülerinden zatürre (pneumonia) tespiti için derin öğrenme tabanlı ikili sınıflandırma modelleri geliştirilmesini kapsayan proje, bebekler ve yaşlılar gibi risk gruplarında erken teşhis için radyolog iş yükünü azaltmayı hedefler.
 
